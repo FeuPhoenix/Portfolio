@@ -29,7 +29,7 @@ const Hero = () => {
             words="Lorem ipsum dolor sit dolor sit dolor sit."
             />
             <p className="text-center md:tracking-wider mb-4 text-sm lg:text-2xl mt-4">
-              Hello, I&apos;m Amr. I'm a full stack developer and a UI/UX designer. I'm passionate about creating beautiful and functional websites and applications.
+              Hello, I&apos;m Amr. I&apos;m a full stack developer and a UI/UX designer. I&apos;m passionate about creating beautiful and functional websites and applications.
             </p>
             <MagicButton
               className="mt-8 text-white text-lg sm:text-xl md:text-2xl py-4 px-8 sm:py-5 sm:px-10 md:py-6 md:px-12 lg:py-7 lg:px-14"
